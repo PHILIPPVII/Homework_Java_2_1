@@ -4,7 +4,7 @@ public class MainV2 {
         int Balance = 100 + Add_Money;
         int Bonus = Balance / 1000;
         if (Balance > 1000)
-            System.out.println("Поздравляем вам начислены бонусы в размере:" + Bonus);
+            System.out.println("Поздравляем вам начислены бонусы в размере:" + Bonus + "балл");
         else {
             System.out.println("Пополнен баланс на сумму:" + Add_Money + "рублей");
 
