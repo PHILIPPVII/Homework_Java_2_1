@@ -1,4 +1,4 @@
-public class Main {
+public class MainV1 {
     public static void main(String[] args) {
         int Amount_Tickets = 2;
         int Cost_Ticket = 10_000;
